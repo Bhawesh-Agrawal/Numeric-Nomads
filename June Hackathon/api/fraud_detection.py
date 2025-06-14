@@ -7,7 +7,7 @@ import pandas as pd
 router = APIRouter()
 
 # Load the trained pipeline and threshold
-model, threshold = joblib.load("June Hackathon//job_fraud_model.pkl")
+model, threshold = joblib.load("job_fraud_model.pkl")
 
 
 # 👤 Request schema for incoming fraud check
