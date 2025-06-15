@@ -13,6 +13,12 @@
 
 A **Job Fraud Detection System** that allows users to check if a job posting is likely fraudulent.
 
+## 📋 Project Presentation
+👉 `(https://drive.google.com/file/d/1ZSjYRno66MqTZnd_2gwVcISKOlhzRm_F/view?usp=sharing)`
+
+## Drive Link
+`[https://drive.google.com/drive/folders/14rEKzvHABzHONYpdN7XIqqi2C3jKM_S2?usp=drive_link]`
+
 **Tech Stack Used:**
 
 * Backend: FastAPI, Scikit-learn, PyTorch
