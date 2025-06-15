@@ -2,6 +2,8 @@
 
 ## Team: **Numeric Nomads**
 
+Video Link : [google-drive link](https://drive.google.com/file/d/1ZSjYRno66MqTZnd_2gwVcISKOlhzRm_F/view)
+
 **Members:**
 
 * Bhawesh Agrawal
