@@ -11,6 +11,9 @@ Video Link : [google-drive link](https://drive.google.com/file/d/1ZSjYRno66MqTZn
 
 ---
 
+## Project Presentation
+[`https://drive.google.com/file/d/1ZSjYRno66MqTZnd_2gwVcISKOlhzRm_F/view?usp=drive_link`]
+
 ## 📋 Project Overview
 
 A **Job Fraud Detection System** that allows users to check if a job posting is likely fraudulent.
